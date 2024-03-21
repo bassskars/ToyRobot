@@ -19,7 +19,7 @@ namespace ToyRobot.Tests
         [InlineData("PLACE 1,2,EAST", 1, 2, Direction.East)]
         [InlineData("PLACE 3,4,SOUTH", 3, 4, Direction.South)]
         [InlineData("PLACE 4,0,WEST", 4, 0, Direction.West)]
-        public void Execute_Place_command(string command, int x, int y, Direction direction)
+        public void Execute_Place_command(string command, int x, int y, string direction)
         {
             _commander.Execute(command);
 
