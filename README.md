@@ -60,3 +60,5 @@ Output: 0,0,WEST
 - Application of OOP techniques including use of applicable Design patterns
 - Abstractions to create a decoupled yet cohesive solution
 - SOLID principles as a guideline
+## Deliverables
+https://github.com/bassskars/ToyRobot/actions/runs/8392120896/job/22984028541
